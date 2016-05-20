@@ -1,0 +1,9 @@
+h1 {
+  color: teal;
+}
+
+#container {
+  border: 1px solid blue;
+  padding: 10px;
+  margin: 30px;
+}
